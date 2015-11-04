@@ -1,0 +1,272 @@
+@media only screen and (max-width: 960px) {
+    .gallery-wrapper {
+        width: 800px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .testiText {
+        font-size: 17px;
+        line-height: 30px;
+        width: 100%;
+        margin: 25px auto;
+        display: block;
+    }
+    .icons {
+        width: 410px;
+    }
+    .icons i {
+        margin-top: 50px
+    }
+    .iconText {
+        line-height: 30px;
+        margin: 10px auto;
+        width: 100%;
+    }
+    .Widget {
+        width: 100%;
+    }
+    .Widget p {
+        line-height: 30px;
+        margin-top: 30px;
+    }
+    .gallery-wrapper {
+        width: 650px;
+    }
+    .gallery {
+        width: 100%;
+    }
+    .gallery img {
+        width: 150px;
+        margin: 5px auto;
+    }
+    .photo img {
+        width: 410px;
+        margin: auto;
+    }
+    .contactWrapper {
+        margin: auto;
+        width: 530px;
+    }
+    .contact input,
+    .contact textarea {
+        width: 100%;
+        display: block;
+    }
+    .contact label {
+        display: block;
+        margin-top: 40px;
+        text-align: left;
+    }
+    .contact .btn {
+        display: block;
+        text-align: right;
+        margin: auto;
+        margin-top: 25px;
+    }
+    .contact .form-group {
+        width: 100%;
+    }
+    .video h3 {
+        margin-top: 40px;
+    }
+    .footer .text-left,
+    .footer .text-right {
+        text-align: center !important;
+    }
+    .footer ul {
+        padding: 0;
+        margin: 10px 0 0 0;
+    }
+}
+@media only screen and (max-width: 650px) {
+    .menu li {
+        display: block;
+        margin-bottom: 10px;
+        background: #1A1A1A;
+        padding: 10px;
+    }
+    .menu {
+        display: none;
+    }
+    .gallery-wrapper {
+        width: 480px;
+    }
+    #header img {
+        padding-top: 35vh;
+    }
+    .contactWrapper {
+        margin: auto;
+        width: 100%;
+    }
+    .contact input,
+    .contact textarea {
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .contact label {
+        display: block;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .contact .btn {
+        display: block;
+        text-align: right;
+        margin: auto;
+        margin-top: 25px;
+    }
+    .contact .form-group {
+        width: 100%;
+    }
+    .footer .text-left,
+    .footer .text-right {
+        text-align: center !important;
+    }
+    .footer ul {
+        padding: 0;
+        margin: 10px 0 0 0;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .gallery-wrapper {
+    width: 320px;
+    }
+    .testiText {
+        font-size: 17px;
+        line-height: 30px;
+        width: 250px;
+        margin: 25px auto;
+        display: block;
+    }
+    .icons {
+        width: 300px;
+    }
+    .icons i {
+        margin-top: 50px
+    }
+    .iconText {
+        line-height: 30px;
+        margin: 10px auto;
+        width: 300px;
+    }
+    .Widget {
+        width: 300px;
+    }
+    .Widget p {
+        line-height: 30px;
+        margin-top: 30px;
+    }
+    .gallery {
+        width: 300px;
+    }
+    .gallery img {
+        display: block;
+        width: 150px;
+        margin: 5px auto;
+    }
+    .video h3 {
+        margin-top: 30px;
+    }
+    .contactWrapper {
+        margin: auto;
+        width: 320px;
+    }
+    .contact input,
+    .contact textarea {
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .contact label {
+        display: block;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .contact .btn {
+        display: block;
+        text-align: right;
+        margin: auto;
+        margin-top: 25px;
+    }
+    .contact .form-group {
+        width: 100%;
+    }
+    .footer .text-left,
+    .footer .text-right {
+        text-align: center !important;
+    }
+    .footer ul {
+        padding: 0;
+        margin: 10px 0 0 0;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .gallery-wrapper {
+        width: 250px;
+    }
+    .testiText {
+        font-size: 17px;
+        line-height: 30px;
+        width: 100%;
+        margin: 25px auto;
+        display: block;
+    }
+    .icons {
+        width: 250px;
+    }
+    .icons i {
+        margin-top: 50px
+    }
+    .iconText {
+        line-height: 30px;
+        margin: 10px auto;
+        width: 250px;
+    }
+    .Widget {
+        width: 250px;
+    }
+    .Widget p {
+        line-height: 30px;
+        margin-top: 30px;
+    }
+    .gallery {
+        width: 250px;
+    }
+    .gallery img {
+        display: block;
+        width: 150px;
+        margin: 5px auto;
+    }
+    .contactWrapper {
+        margin: auto;
+        width: 100%;
+    }
+    .contact input,
+    .contact textarea {
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .contact label {
+        display: block;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .contact .btn {
+        display: block;
+        text-align: right;
+        margin: auto;
+        margin-top: 25px;
+    }
+    .contact .form-group {
+        width: 100%;
+    }
+    .footer .text-left,
+    .footer .text-right {
+        text-align: center !important;
+    }
+    .footer ul {
+        padding: 0;
+        margin: 10px 0 0 0;
+    }
+}
